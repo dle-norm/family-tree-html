@@ -9,7 +9,6 @@ Nvm see : https://github.com/nvm-sh/nvm
 ```sh
 nvm use
 npm install
-npm i
 ```
 This installs all dependencies.
 node v16.14.0 (npm v8.3.1)
